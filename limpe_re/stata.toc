@@ -2,4 +2,4 @@
 1
 2
 3
-p dea Data envelopment analysis
+p limpe_re Estimate the linear-in-means peer effects model with random group effects Use limpe_re With STATA 18
