@@ -1,5 +1,4 @@
-d 'DEA': Data envelopment analysis
+d 'limpe_re': Estimate the linear-in-means peer effects model with random group effects Use limpe_re With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f limpe_re.ado
+f limpe_re.sthlp
