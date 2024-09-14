@@ -1,7 +1,9 @@
 # limpe_re
 Estimate the linear-in-means peer effects model with random group effects Use limpe_re With STATA 18
 
-Quasi-maximum likelihood estimation for the linear-in-means peer effects model with group effects. The estimation strategy and the properties of the estimator are discussed in Kuersteiner et. al. (2021) Use limpe_re With STATA 18.
+Quasi-maximum likelihood estimation for the linear-in-means peer effects model with group effects. The estimation strategy and the properties of the estimator are discussed in Kuersteiner et. al. (2021) Use limpe_re With STATA 18
+
+https://www.youtube.com/watch?v=QaKBn7MgCts
 
 Olah Data Semarang
 
